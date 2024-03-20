@@ -1,3 +1,3 @@
 function alerts() {
-    alert('Hello!');
+    alert('Terimakasih sudah mencoba!');
 }
