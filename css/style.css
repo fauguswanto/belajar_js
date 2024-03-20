@@ -3,7 +3,7 @@ body {
     display: flex; /* Display flex */
     justify-content: center; /* Center align content horizontally */
     align-items: center; /* Center align content vertically */
-    height: 100vh; /* Set height to viewport height for vertical centering */
+    /* height: 100vh; */
 }
 
 .content {
